@@ -1,6 +1,6 @@
 ## Jérémie Guillot | @JustJerem
 
-Hi, I'm Jé 👋 -an Android developer at [@World_Health_Organization_Academy](https://www.who.int/about/who-academy) to help doctors and citizens around the world better understand and manage disease. Previously, I worked with [@Finalcad](https://www.finalcad.com/) on their worldwide distributed construction application.  I enjoy video games, but my favorite things are urbanism and hiking (everyone has his own craziness).
+Hi, I'm Jé 👋 -an Android developer at [@World_Health_Organization_Academy](https://www.who.int/about/who-academy) to help doctors and citizens around the world better understand and manage disease. Previously, I worked with [@Finalcad](https://www.finalcad.com/) on their worldwide distributed construction application.  I enjoy mobile app, but my favorite things are urbanism and hiking (everyone has his own craziness).
 
 ## My Values
 🌟  Expression as authentic self
