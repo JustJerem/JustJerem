@@ -3,13 +3,13 @@
 Hi, I'm Jé 👋 -an Android developer at [@World_Health_Organization_Academy](https://www.who.int/about/who-academy) to help doctors and citizens around the world better understand and manage disease. Previously, I worked with [@Finalcad](https://www.finalcad.com/) on their worldwide distributed construction application.  I enjoy video games, but my favorite things are urbanism and hiking (everyone has his own craziness).
 
 ## My Values
-🌟 Expression as authentic self
+🌟  Expression as authentic self
 
-🎗 Safety and trust
+🎗  Safety and trust
 
-🍏 Beginner's mindset and curiosity
+🍏  Beginner's mindset and curiosity
 
-🙌 Shared understanding and consensus
+🙌  Shared understanding and consensus
 
 ## How I Work
 
