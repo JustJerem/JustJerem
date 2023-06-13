@@ -7,7 +7,7 @@
 
 
 **I'm Jérémie**
-, -a French Senior Android Developer at [@World_Health_Organization_Academy](https://www.who.int/about/who-academy) to help doctors and citizens around the world better understand and manage disease. Previously, I worked with [@Finalcad](https://www.finalcad.com/) on their worldwide distributed construction application.  I enjoy mobile apps, but my favorite things are urbanism and hiking (everyone has his own craziness).
+, -a French Android Developer at [@World_Health_Organization_Academy](https://www.who.int/about/who-academy) to help doctors and citizens around the world better understand and manage disease. Previously, I worked with [@Finalcad](https://www.finalcad.com/) on their worldwide distributed construction application.  I enjoy mobile apps, but my favorite things are urbanism and hiking (everyone has his own craziness).
 
 #### My Values
 - 🌟  Expression as an authentic self
