@@ -50,4 +50,4 @@ _Section Under Construction_
 - []() - 
 
 ##### Smaller but still interesting
-- []() - 
+- [Paris 2024](https://github.com/JustJerem/OlympicGame) - Android - Olympic Game athletes presentation app using MVI, Clean Architecture, Compose, Coroutine, Hilt, Mockito
