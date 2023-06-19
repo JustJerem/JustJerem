@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Android native and KMM projects
 - 🌱 I’m exploring latest techniques in Android, things change quickly around here!
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/jeremie-guillot-freelance-android/)
+- 📫 Experiences & Contact me: [LinkedIn Profile](https://www.linkedin.com/in/jeremie-guillot-freelance-android/)
 - ⚡ Fun fact: Can pass a Turing test 78.2% of the time
 
 
