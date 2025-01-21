@@ -9,7 +9,7 @@
 **I'm Jérémie**
 , -a French Android Developer at [@World_Health_Organization_Academy](https://www.who.int/about/who-academy) to help doctors and citizens around the world better understand and manage disease. Previously, I worked with [@Finalcad](https://www.finalcad.com/) on their worldwide distributed construction application.  I enjoy mobile apps, but my favorite things are urbanism and hiking (everyone has their own craziness).
 
-My résumé is available [here in English](https://github.com/JustJerem/JustJerem/blob/master/CV%20GUILLOT%20Freelance%20Android.pdf) - [fr version](https://github.com/JustJerem/JustJerem/blob/master/CV%20GUILLOT%20-%20Freelance%20Android%20-%20Fr.pdf).
+My résumé is available [here in English]([https://github.com/JustJerem/JustJerem/blob/master/CV%20GUILLOT%20Freelance%20Android.pdf](https://github.com/JustJerem/JustJerem/blob/master/Guillot%20Freelance%20Android%20CV%20English.pdf)) - [fr version]([https://github.com/JustJerem/JustJerem/blob/master/CV%20GUILLOT%20-%20Freelance%20Android%20-%20Fr.pdf](https://github.com/JustJerem/JustJerem/blob/master/Guillot%20Freelance%20Android%20CV.pdf)).
 
 #### My Values
 - 🌟  Expression as an authentic self
