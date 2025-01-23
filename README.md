@@ -55,3 +55,6 @@ _Section Under Construction_
 
 ##### Smaller but still interesting
 - [Paris 2024](https://github.com/JustJerem/OlympicGame) - Android - Olympic Game athletes presentation app using MVI, Clean Architecture, Compose, Coroutine, Hilt, Mockito
+- [Identify Reader](https://github.com/JustJerem/IdentityReader) - Android - Scanning and Processing identity documents such as passports, French ID cards, and residence permits, using MVI pattern, multi-module architecture, Clean Architecture, Compose, Coroutine.
+
+
